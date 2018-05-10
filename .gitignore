@@ -1,0 +1,5 @@
+/inc/gen
+/old
+/.build
+*.o
+*.so
